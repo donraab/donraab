@@ -25,3 +25,7 @@
 * April 2020 - JCP Executive Committee Meeting - [JSR for Java Collections 2.0](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
 * May 2014 - JCP Executive Committee Meeting - [GS Collections and Java 8](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2014-05-1314/GS_Collections_May2014.pdf)
 * 2012 JVM Language Summit - [A Java collections framework design](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
+
+## Articles
+* Java Magazine - May 2020 - Eclipse Collections named one of ["The 25 greatest Java apps ever written"](https://blogs.oracle.com/javamagazine/post/the-top-25-greatest-java-apps-ever-written) 
+* GS Collections by Example - [Part 1](https://www.infoq.com/articles/GS-Collections-by-Example-1) / [Part 2](https://www.infoq.com/articles/GS-Collections-by-Example-2/)
