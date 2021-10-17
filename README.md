@@ -1,8 +1,21 @@
 ## About Me
-* Creator of [Eclipse Collections](https://github.com/eclipse/eclipse-collections) open source Java collections library
 * Java Champion - since 2018
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
   * Article: [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
+* [Desktop Don Reference](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
+
+## Open Source
+* Creator of [Eclipse Collections](https://github.com/eclipse/eclipse-collections) open source collections library for Java
+* Committer for [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
+* Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
+
+## Top Technical Blogs
+* [Java Streams are great but it’s time for better Java Collections](https://medium.com/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1?source=friends_link&sk=1a2bdf1b97aba36f4df15f1d9d8ca310)
+* [The missing Java data structures no one ever told you about](https://medium.com/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2?source=friends_link&sk=9403ae8464ae3477bfc1e52119c1576d)
+* [Eager is Easy, Lazy is Labyrinthine](https://medium.com/javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048?source=friends_link&sk=9d8ec91aa6f1af48ee7333ad03b19ed0)
+* [Immutable Collections in Java using Sealed Types](https://medium.com/javarevisited/immutable-collections-in-java-using-sealed-types-ae8eb580fc1e?source=friends_link&sk=e9b062d5b59c0d341b718c32150e2d26)
+* [Visualizing Eclipse Collections](https://medium.com/oracledevs/visualizing-eclipse-collections-646dad9533a9?source=friends_link&sk=3370a5e8bb5a516e6b5d7040f7d0955b)
+* [Ten reasons to use Eclipse Collections](https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3)
 
 ## Videos
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
