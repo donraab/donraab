@@ -1,15 +1,16 @@
 ## About Me
 * Java Champion - since 2018
+* [JCP Executive Committee](https://jcp.org/en/participation/committee) [Representative](https://jcp.org/en/press/news/ec-feature#raab)
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
-  * Article: [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
-* [Desktop Don Reference](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
+  * [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
+* [Blog](https://donraab.medium.com/) / [Twitter](https://twitter.com/TheDonRaab) / [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab) / [DDR](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
 
 ## Open Source
 * Creator of [Eclipse Collections](https://github.com/eclipse/eclipse-collections) open source collections library for Java
 * Committer for [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
-## Top Technical Blogs
+## Favorite Technical Blogs
 * [Java Streams are great but it’s time for better Java Collections](https://medium.com/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1?source=friends_link&sk=1a2bdf1b97aba36f4df15f1d9d8ca310)
 * [The missing Java data structures no one ever told you about](https://medium.com/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2?source=friends_link&sk=9403ae8464ae3477bfc1e52119c1576d)
 * [Eager is Easy, Lazy is Labyrinthine](https://medium.com/javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048?source=friends_link&sk=9d8ec91aa6f1af48ee7333ad03b19ed0)
@@ -24,9 +25,3 @@
 * April 2020 - JCP Executive Committee Meeting - [JSR for Java Collections 2.0](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
 * May 2014 - JCP Executive Committee Meeting - [GS Collections and Java 8](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2014-05-1314/GS_Collections_May2014.pdf)
 * 2012 JVM Language Summit - [A Java collections framework design](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
-
-## Links
-* [Blog](https://donraab.medium.com/)
-* [Twitter](https://twitter.com/TheDonRaab)
-* [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab)
-
