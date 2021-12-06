@@ -22,6 +22,7 @@
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
 * 2019 Oracle CodeOne - [JVMs.Compare - Benchmark Performance of Different JDK/JVM Combos](https://youtu.be/xxZCtlgem28)
 * 2019 Devnexus - [JVM.Languages.Compare({Java, Kotlin, Groovy, Scala})](https://vimeo.com/331297954)
+* 2018 QCon New York - [Invest in Your Java Katalogue](https://www.infoq.com/presentations/java-katas/)
 * 2017 Devoxx US - [Collections.compare(JDK, Eclipse, Guava, Apache...)](https://www.youtube.com/watch?v=hWwbPguayNA)
 * 2006 Live Band Karaoke - [Enter Sandman by Metallica](https://www.youtube.com/watch?v=6RpLRJfObPs)
 
@@ -33,4 +34,5 @@
 ## Articles
 * Java Magazine - May 2020 - Eclipse Collections named one of ["The 25 greatest Java apps ever written"](https://blogs.oracle.com/javamagazine/post/the-top-25-greatest-java-apps-ever-written)
 * Eclipse Foundation - 2018 - [Optimization Strategies with Eclipse Collections](https://www.eclipse.org/community/eclipse_newsletter/2018/april/collections.php) 
+* InfoQ - 2016 - [GS Collections Moves to the Eclipse Foundation](https://www.infoq.com/news/2016/01/GS-Collections-Eclipse-Foundn/)
 * InfoQ - 2014 - GS Collections by Example - [Part 1](https://www.infoq.com/articles/GS-Collections-by-Example-1) / [Part 2](https://www.infoq.com/articles/GS-Collections-by-Example-2/)
