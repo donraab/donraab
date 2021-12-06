@@ -20,6 +20,8 @@
 
 ## Videos
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
+* 2019 Oracle CodeOne - [JVMs.Compare - Benchmark Performance of Different JDK/JVM Combos](https://youtu.be/xxZCtlgem28)
+* 2019 Devnexus - [JVM.Languages.Compare({Java, Kotlin, Groovy, Scala})](https://vimeo.com/331297954)
 * 2017 Devoxx US - [Collections.compare(JDK, Eclipse, Guava, Apache...)](https://www.youtube.com/watch?v=hWwbPguayNA)
 * 2006 Live Band Karaoke - [Enter Sandman by Metallica](https://www.youtube.com/watch?v=6RpLRJfObPs)
 
