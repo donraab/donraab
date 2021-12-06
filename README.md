@@ -20,6 +20,7 @@
 
 ## Videos
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
+* 2006 Live Band Karaoke - [Enter Sandman by Metallica](https://www.youtube.com/watch?v=6RpLRJfObPs)
 
 ## Slide Decks
 * April 2020 - JCP Executive Committee Meeting - [JSR for Java Collections 2.0](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
