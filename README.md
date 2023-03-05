@@ -21,6 +21,7 @@
 * [Ten reasons to use Eclipse Collections](https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3)
 
 ## Videos
+* 2022 IntelliJ IDEA Conf - [Keynote](https://www.youtube.com/watch?v=SD7RnkUp5P4&t=2763s)
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
 * 2019 Oracle CodeOne - [JVMs.Compare - Benchmark Performance of Different JDK/JVM Combos](https://youtu.be/xxZCtlgem28)
 * 2019 Devnexus - [JVM.Languages.Compare({Java, Kotlin, Groovy, Scala})](https://vimeo.com/331297954)
