@@ -12,6 +12,9 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Favorite Technical Blogs
+* [Polishing Diamonds in Java](https://betterprogramming.pub/polishing-diamonds-in-java-3965efcdc437?source=friends_link&sk=5b5a2435a528b099fd741d651809ff9e)
+* [Sweating the Small Stuff in Java](https://betterprogramming.pub/sweating-the-small-stuff-in-java-dbd695166d13?source=friends_link&sk=aefca6a94a35340fccbcdbe9131036c1)
+* [Getting Started with Eclipse Collections](https://donraab.medium.com/blog-series-getting-started-with-eclipse-collections-5634dc39b9e6?source=friends_link&sk=92d8eba8a56167fa840cf9c9ada07326)
 * [Traveling the road from Idea all the way to OpenJDK](https://donraab.medium.com/traveling-the-road-from-idea-all-the-way-to-openjdk-fc7ae04371a5?source=friends_link&sk=dee025810df6a898e0796dd2586287d7)
 * [Java Streams are great but it’s time for better Java Collections](https://medium.com/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1?source=friends_link&sk=1a2bdf1b97aba36f4df15f1d9d8ca310)
 * [The missing Java data structures no one ever told you about](https://medium.com/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2?source=friends_link&sk=9403ae8464ae3477bfc1e52119c1576d)
@@ -21,6 +24,8 @@
 * [Ten reasons to use Eclipse Collections](https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3)
 
 ## Videos
+* 2023 Devoxx Greece - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
+* 2023 Devnexus - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=0mZRNC3aqbU)
 * 2022 IntelliJ IDEA Conf - [Keynote](https://www.youtube.com/watch?v=SD7RnkUp5P4&t=2763s)
 * 2019 Open Source Strategy Forum - [Fireside Chat with Gabriele Columbro](https://www.youtube.com/watch?v=-jGpWnO-uI0)
 * 2019 Oracle CodeOne - [JVMs.Compare - Benchmark Performance of Different JDK/JVM Combos](https://youtu.be/xxZCtlgem28)
@@ -30,6 +35,8 @@
 * 2006 Live Band Karaoke - [Enter Sandman by Metallica](https://www.youtube.com/watch?v=6RpLRJfObPs)
 
 ## Slide Decks
+* June 2023 - QCon NY - [Performance and Scale in Java - Domain-Oriented Objects vs Tabular Data Structures](https://github.com/mehmandarov/java-collection-dataframes-perf/tree/main/presentation)
+* April/May 2023 - Devnexus/Devoxx Greece - [Dataframes, Collections and Streams in Java](https://github.com/mehmandarov/java-collection-dataframes/tree/main/presentation)
 * April 2020 - JCP Executive Committee Meeting - [JSR for Java Collections 2.0](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
 * May 2014 - JCP Executive Committee Meeting - [GS Collections and Java 8](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2014-05-1314/GS_Collections_May2014.pdf)
 * 2012 JVM Language Summit - [A Java collections framework design](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
