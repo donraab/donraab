@@ -1,5 +1,5 @@
 ## About Me
-* Java Champion - since 2018
+* [Java Champion](https://javachampions.org/members.html) - since 2018
 * Previously a [JCP Executive Committee](https://jcp.org/en/participation/committee) Representative
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
   * [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
