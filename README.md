@@ -4,7 +4,7 @@
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
   * [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
 * [The Joy of Programming - My 40 year story](https://donraab.medium.com/the-joy-of-programming-64cd5949bc78?source=friends_link&sk=42098cfc793ca23b32493e8563711328)
-* [Blog](https://donraab.medium.com/) / [Twitter](https://twitter.com/TheDonRaab) / [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab) / [DDR](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
+* [Blog](https://donraab.medium.com/) / [Twitter](https://twitter.com/TheDonRaab) / [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab) / [Desktop Don Reference](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
 
 ## Open Source
 * Creator of [Eclipse Collections](https://github.com/eclipse/eclipse-collections) open source collections library for Java
@@ -12,6 +12,7 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Favorite Technical Blogs
+* [My ten-year quest for concise lambda expressions in Java](https://betterprogramming.pub/my-ten-year-quest-for-concise-lambda-expressions-in-java-39fde576b950?source=friends_link&sk=843d797af3f58f893ebdee5e13ce0115)
 * [Polishing Diamonds in Java](https://betterprogramming.pub/polishing-diamonds-in-java-3965efcdc437?source=friends_link&sk=5b5a2435a528b099fd741d651809ff9e)
 * [Sweating the Small Stuff in Java](https://betterprogramming.pub/sweating-the-small-stuff-in-java-dbd695166d13?source=friends_link&sk=aefca6a94a35340fccbcdbe9131036c1)
 * [Getting Started with Eclipse Collections](https://donraab.medium.com/blog-series-getting-started-with-eclipse-collections-5634dc39b9e6?source=friends_link&sk=92d8eba8a56167fa840cf9c9ada07326)
@@ -24,6 +25,7 @@
 * [Ten reasons to use Eclipse Collections](https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3)
 
 ## Videos
+* 2023 Devoxx Belgium - [Performance and Scale Domain Oriented Objects vs Tabular Data Structures](https://www.youtube.com/watch?v=GseytbkkQgg)
 * 2023 Devoxx Greece - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
 * 2023 Devnexus - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=0mZRNC3aqbU)
 * 2022 IntelliJ IDEA Conf - [Keynote](https://www.youtube.com/watch?v=SD7RnkUp5P4&t=2763s)
