@@ -37,6 +37,7 @@
 * 2006 Live Band Karaoke - [Enter Sandman by Metallica](https://www.youtube.com/watch?v=6RpLRJfObPs)
 
 ## Slide Decks
+* October 2023 - Devoxx Belgium [Performance and Scale Domain Oriented Objects vs Tabular Data Structures](https://github.com/mehmandarov/java-collection-dataframes-perf/tree/main/presentation)
 * June 2023 - QCon NY - [Performance and Scale in Java - Domain-Oriented Objects vs Tabular Data Structures](https://github.com/mehmandarov/java-collection-dataframes-perf/tree/main/presentation)
 * April/May 2023 - Devnexus/Devoxx Greece - [Dataframes, Collections and Streams in Java](https://github.com/mehmandarov/java-collection-dataframes/tree/main/presentation)
 * April 2020 - JCP Executive Committee Meeting - [JSR for Java Collections 2.0](http://wiki.jvmlangsummit.com/images/c/c2/Raab_Collections_Design.pdf)
