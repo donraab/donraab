@@ -26,6 +26,7 @@
 
 ## Videos
 * 2023 Devoxx Belgium - [Performance and Scale Domain Oriented Objects vs Tabular Data Structures](https://www.youtube.com/watch?v=GseytbkkQgg)
+* 2023 QCon New York - [Performance and Scale - Domain-Oriented Objects vs Tabular Data Structures](https://www.infoq.com/presentations/tabular-data-structures/)
 * 2023 Devoxx Greece - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
 * 2023 Devnexus - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=0mZRNC3aqbU)
 * 2022 IntelliJ IDEA Conf - [Keynote](https://www.youtube.com/watch?v=SD7RnkUp5P4&t=2763s)
