@@ -11,7 +11,8 @@
 * Committer for [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
-## Some of my Technical Blogs
+## Technical Blogs
+* [What if Java Collections had eager methods for filter, map, flatMap](https://betterprogramming.pub/what-if-java-collections-had-eager-methods-for-filter-map-flatmap-a61ef07fa52a?source=friends_link&sk=d0446b31d946bca7f63f7b8c20d8525f)
 * [My ten-year quest for concise lambda expressions in Java](https://betterprogramming.pub/my-ten-year-quest-for-concise-lambda-expressions-in-java-39fde576b950?source=friends_link&sk=843d797af3f58f893ebdee5e13ce0115)
 * [Polishing Diamonds in Java](https://betterprogramming.pub/polishing-diamonds-in-java-3965efcdc437?source=friends_link&sk=5b5a2435a528b099fd741d651809ff9e)
 * [Sweating the Small Stuff in Java](https://betterprogramming.pub/sweating-the-small-stuff-in-java-dbd695166d13?source=friends_link&sk=aefca6a94a35340fccbcdbe9131036c1)
