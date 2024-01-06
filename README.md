@@ -12,6 +12,8 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [Memories of Twenty Years of Eclipse Collections Development](https://donraab.medium.com/memories-of-twenty-years-of-eclipse-collections-development-ddd545969dcf?source=friends_link&sk=d2ca4a6d44e3fb8ef45bd41951bb68d4)
+* [How do you know if a Java Collection is Mutable or Immutable?](https://medium.com/javarevisited/how-do-you-know-if-a-java-collection-is-mutable-or-immutable-b397dfc5d231?source=friends_link&sk=4f29c9d4977f76884a75efa51dec353e)
 * [What if Java Collections had eager methods for filter, map, flatMap](https://betterprogramming.pub/what-if-java-collections-had-eager-methods-for-filter-map-flatmap-a61ef07fa52a?source=friends_link&sk=d0446b31d946bca7f63f7b8c20d8525f)
 * [My ten-year quest for concise lambda expressions in Java](https://betterprogramming.pub/my-ten-year-quest-for-concise-lambda-expressions-in-java-39fde576b950?source=friends_link&sk=843d797af3f58f893ebdee5e13ce0115)
 * [Polishing Diamonds in Java](https://betterprogramming.pub/polishing-diamonds-in-java-3965efcdc437?source=friends_link&sk=5b5a2435a528b099fd741d651809ff9e)
