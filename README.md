@@ -12,6 +12,9 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [What if Java had no for?](https://donraab.medium.com/what-if-java-had-no-for-85302ab7e484?source=friends_link&sk=619ea77195444129e7c52b154e8a3c93)
+* [What if Java had no if?](https://donraab.medium.com/what-if-java-had-no-if-ea88d90b76c3?source=friends_link&sk=7b8f510b439b8599a806093783917216)
+* [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2?source=friends_link&sk=2880debb727cd1fcff5bcc8c24f20142)
 * [Memories of Twenty Years of Eclipse Collections Development](https://donraab.medium.com/memories-of-twenty-years-of-eclipse-collections-development-ddd545969dcf?source=friends_link&sk=d2ca4a6d44e3fb8ef45bd41951bb68d4)
 * [How do you know if a Java Collection is Mutable or Immutable?](https://medium.com/javarevisited/how-do-you-know-if-a-java-collection-is-mutable-or-immutable-b397dfc5d231?source=friends_link&sk=4f29c9d4977f76884a75efa51dec353e)
 * [What if Java Collections had eager methods for filter, map, flatMap](https://betterprogramming.pub/what-if-java-collections-had-eager-methods-for-filter-map-flatmap-a61ef07fa52a?source=friends_link&sk=d0446b31d946bca7f63f7b8c20d8525f)
