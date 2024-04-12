@@ -12,6 +12,7 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [Visualizing Eclipse Collections after Twenty Years of Development](https://donraab.medium.com/visualizing-eclipse-collections-after-twenty-years-of-development-701047fdc672?source=friends_link&sk=2ee71fa0e8426e2797391251550351db)
 * [What if Java had no for?](https://donraab.medium.com/what-if-java-had-no-for-85302ab7e484?source=friends_link&sk=619ea77195444129e7c52b154e8a3c93)
 * [What if Java had no if?](https://donraab.medium.com/what-if-java-had-no-if-ea88d90b76c3?source=friends_link&sk=7b8f510b439b8599a806093783917216)
 * [What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2?source=friends_link&sk=2880debb727cd1fcff5bcc8c24f20142)
