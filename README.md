@@ -12,6 +12,7 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [Map-Oriented Programming in Java](https://levelup.gitconnected.com/map-oriented-programming-in-java-cc430f25673e?source=friends_link&sk=26c9d0b82babff55b692c1dc3d2a907d)
 * [Looking at a Java Class and its Methods Through a Kaleidoscope](https://medium.com/javarevisited/looking-at-a-java-class-and-its-methods-through-a-kaleidoscope-998b510e39ac?source=friends_link&sk=cb82dfd203d6d6a49f04180344e9dd7a)
 * [Visualizing Eclipse Collections after Twenty Years of Development](https://donraab.medium.com/visualizing-eclipse-collections-after-twenty-years-of-development-701047fdc672?source=friends_link&sk=2ee71fa0e8426e2797391251550351db)
 * [What if Java had no for?](https://donraab.medium.com/what-if-java-had-no-for-85302ab7e484?source=friends_link&sk=619ea77195444129e7c52b154e8a3c93)
