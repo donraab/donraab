@@ -1,6 +1,7 @@
 ## About Me
 * [Java Champion](https://donraab.medium.com/my-journey-to-and-as-a-java-champion-5b692786a3ba?source=friends_link&sk=d786bc6b65671632ebb10184b5ec3468) - since 2018
 * Previously a [JCP Executive Committee](https://jcp.org/en/participation/committee) Representative
+  * Representative in JCP EC Elections in [2022](https://jcp.org/aboutJava/communityprocess/elections/2022-nominees.html), [2020](https://jcp.org/aboutJava/communityprocess/elections/2020-nominees.html), [2018](https://jcp.org/aboutJava/communityprocess/elections/2018-nominees.html), [2016](https://jcp.org/aboutJava/communityprocess/elections/2016-nominees.html)   
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
   * [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
 * [The Joy of Programming - My 40 year coding story](https://donraab.medium.com/the-joy-of-programming-64cd5949bc78?source=friends_link&sk=42098cfc793ca23b32493e8563711328)
