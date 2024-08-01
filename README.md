@@ -61,3 +61,7 @@
 * Eclipse Foundation - 2018 - [Optimization Strategies with Eclipse Collections](https://www.eclipse.org/community/eclipse_newsletter/2018/april/collections.php) 
 * InfoQ - 2016 - [GS Collections Moves to the Eclipse Foundation](https://www.infoq.com/news/2016/01/GS-Collections-Eclipse-Foundn/)
 * InfoQ - 2014 - GS Collections by Example - [Part 1](https://www.infoq.com/articles/GS-Collections-by-Example-1) / [Part 2](https://www.infoq.com/articles/GS-Collections-by-Example-2/)
+
+## Travel Blogs
+* JCrete 2024 - [My First and Second JCrete Unconference Experiences](https://donraab.medium.com/my-first-and-second-jcrete-unconference-experiences-f6d7cce2195f?source=friends_link&sk=cc6e3cb238167a641909f96a84dbc559)
+* East Coast U.S. Road Trip 2024 - [Bridging the Gap](https://donraab.medium.com/bridging-the-gap-5180e685dbf4?source=friends_link&sk=1791027a8b6fac50bd8d885976e55d58)
