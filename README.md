@@ -1,5 +1,5 @@
 ## About Me
-* [Java Champion](https://donraab.medium.com/my-journey-to-and-as-a-java-champion-5b692786a3ba?source=friends_link&sk=d786bc6b65671632ebb10184b5ec3468) - since 2018
+* [Java Champion](https://donraab.medium.com/my-journey-to-and-as-a-java-champion-5b692786a3ba?source=friends_link&sk=d786bc6b65671632ebb10184b5ec3468), Author, Blogger, International Conference Speaker, Eclipse Collections Project Lead.
 * Previously a [JCP Executive Committee](https://jcp.org/en/participation/committee) Representative
   * Representative in JCP EC Elections in [2022](https://jcp.org/aboutJava/communityprocess/elections/2022-nominees.html), [2020](https://jcp.org/aboutJava/communityprocess/elections/2020-nominees.html), [2018](https://jcp.org/aboutJava/communityprocess/elections/2018-nominees.html), [2016](https://jcp.org/aboutJava/communityprocess/elections/2016-nominees.html)   
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
