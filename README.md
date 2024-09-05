@@ -5,7 +5,7 @@
 * Contributing Author - [97 Things Every Java Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
   * [Learn to Kata and Kata to Learn](https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c)
 * [The Joy of Programming - My 40 year coding story](https://donraab.medium.com/the-joy-of-programming-64cd5949bc78?source=friends_link&sk=42098cfc793ca23b32493e8563711328)
-* [Blog](https://donraab.medium.com/) / [Twitter](https://twitter.com/TheDonRaab) / [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab) / [Desktop Don Reference](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
+* [Blog](https://donraab.medium.com/) / [Mastodon](https://mastodon.social/@TheDonRaab) / [Twitter](https://twitter.com/TheDonRaab) / [StackOverflow](https://stackoverflow.com/users/1570415/donald-raab) / [Desktop Don Reference](https://donraab.medium.com/the-desktop-don-reference-5e3299df50d8?source=friends_link&sk=9c4f75c2b44509239093e7f10c7b90f6)
 
 ## Open Source
 * Creator of [Eclipse Collections](https://github.com/eclipse/eclipse-collections) open source collections library for Java
