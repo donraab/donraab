@@ -13,6 +13,7 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [Associating Method Categories with Emojis in IntelliJ and Javadoc](https://donraab.medium.com/associating-method-categories-with-emojis-in-intellij-and-javadoc-a82aebe1e903?source=friends_link&sk=d896106bcb8a6de06719edab75215281)
 * [Grouping Java methods using custom code folding regions with IntelliJ](https://donraab.medium.com/grouping-java-methods-using-custom-code-folding-regions-with-intellij-bdff0b4fb2a3?source=friends_link&sk=b1a6a0af0450bebb471c6c1b73ea07f3)
 * [Following the flow of a Java Stream](https://donraab.medium.com/following-the-flow-of-a-java-stream-0bb617e3074f?source=friends_link&sk=dc1d82aaa9ef5af299e529f189b6fe2b)
 * [LazyIterable will get back to you later](https://donraab.medium.com/lazyiterable-will-get-back-to-you-later-1f4cf92ce5f5?source=friends_link&sk=22570f1b1b96b09587dd0375c555c05c)
