@@ -13,6 +13,7 @@
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
 ## Technical Blogs
+* [10 Billion Integers Walk Into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964?source=friends_link&sk=1fd9c1da8ac281c6b66bb41a17a0125e)
 * [Associating Method Categories with Emojis in IntelliJ and Javadoc](https://donraab.medium.com/associating-method-categories-with-emojis-in-intellij-and-javadoc-a82aebe1e903?source=friends_link&sk=d896106bcb8a6de06719edab75215281)
 * [Grouping Java methods using custom code folding regions with IntelliJ](https://donraab.medium.com/grouping-java-methods-using-custom-code-folding-regions-with-intellij-bdff0b4fb2a3?source=friends_link&sk=b1a6a0af0450bebb471c6c1b73ea07f3)
 * [Following the flow of a Java Stream](https://donraab.medium.com/following-the-flow-of-a-java-stream-0bb617e3074f?source=friends_link&sk=dc1d82aaa9ef5af299e529f189b6fe2b)
