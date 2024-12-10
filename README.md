@@ -12,6 +12,10 @@
 * Committer for [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
 * Creator of [BNY Mellon Code Katas](https://github.com/BNYMellon/CodeKatas)
 
+## Podcast Episodes
+* Duke's Corner with Jim Grisanzio - [Unlimited, Untapped Resources](https://dukescorner.libsyn.com/donald-raab-unlimited-untapped-resources)
+* The People's Software Engineer with Bhavana Hindupur - [40 years of code and the passion behind Eclipse Collections](https://www.youtube.com/watch?v=n321I2_QhKc)
+
 ## Technical Blogs
 * [Parkour with Maps in Java](https://levelup.gitconnected.com/parkour-with-maps-in-java-e1c6c740bacc?source=friends_link&sk=4a97d18f2a6bb80648236efa2f6eb8bd)
 * [10 Billion Integers Walk Into an Array](https://donraab.medium.com/10-billion-integers-walk-into-an-array-37097386c964?source=friends_link&sk=1fd9c1da8ac281c6b66bb41a17a0125e)
