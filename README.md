@@ -1,4 +1,5 @@
 ## About Me
+* Author of [Eclipse Collections Categorically: Level up your programming game](https://donraab.medium.com/book-eclipse-collections-categorically-37591b2135f5?source=friends_link&sk=03cc75fec4052e377444ede49d6c55b2)
 * [Java Champion](https://donraab.medium.com/my-journey-to-and-as-a-java-champion-5b692786a3ba?source=friends_link&sk=d786bc6b65671632ebb10184b5ec3468), Author, Blogger, International Conference Speaker, [Eclipse Collections](https://github.com/eclipse/eclipse-collections) Project Lead.
 * Previously a [JCP Executive Committee](https://jcp.org/en/participation/committee) Representative
   * Representative in JCP EC Elections in [2022](https://jcp.org/aboutJava/communityprocess/elections/2022-nominees.html), [2020](https://jcp.org/aboutJava/communityprocess/elections/2020-nominees.html), [2018](https://jcp.org/aboutJava/communityprocess/elections/2018-nominees.html), [2016](https://jcp.org/aboutJava/communityprocess/elections/2016-nominees.html)   
