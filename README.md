@@ -18,6 +18,7 @@
 * The People's Software Engineer with Bhavana Hindupur - [40 years of code and the passion behind Eclipse Collections](https://www.youtube.com/watch?v=n321I2_QhKc)
 
 ## Technical Blogs
+* [Book: Eclipse Collections Categorically](https://donraab.medium.com/book-eclipse-collections-categorically-37591b2135f5?source=friends_link&sk=03cc75fec4052e377444ede49d6c55b2)
 * [My Twenty-one Year Journey to Write and Publish My First Book](https://donraab.medium.com/my-twenty-one-year-journey-to-write-and-publish-my-first-book-f81352352e24?source=friends_link&sk=83fa5aa5c4328aa41c9e27cf665ff008)
 * [Poetry in Code](https://donraab.medium.com/poetry-in-code-91801b3c5b6b?source=friends_link&sk=3d3507cd23906a38ec3a7dba91aea0b6)
 * [Parkour with Maps in Java](https://levelup.gitconnected.com/parkour-with-maps-in-java-e1c6c740bacc?source=friends_link&sk=4a97d18f2a6bb80648236efa2f6eb8bd)
