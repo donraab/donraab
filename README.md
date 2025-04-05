@@ -52,6 +52,7 @@
 * [Ten reasons to use Eclipse Collections](https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3)
 
 ## Videos
+* 2025 JavaOne - [Java Turns 30 - Community Keynote and Interview with Billy Korando after keynote](https://www.youtube.com/watch?v=GwR7Gvi80Xo)
 * 2023 Devoxx Belgium - [Performance and Scale Domain Oriented Objects vs Tabular Data Structures](https://www.youtube.com/watch?v=GseytbkkQgg)
 * 2023 QCon New York - [Performance and Scale - Domain-Oriented Objects vs Tabular Data Structures](https://www.infoq.com/presentations/tabular-data-structures/)
 * 2023 Devoxx Greece - [Dataframes, Collections and Streams in Java](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
