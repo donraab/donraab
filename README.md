@@ -27,7 +27,6 @@
 * [Grouping Java methods using custom code folding regions with IntelliJ](https://donraab.medium.com/grouping-java-methods-using-custom-code-folding-regions-with-intellij-bdff0b4fb2a3?source=friends_link&sk=b1a6a0af0450bebb471c6c1b73ea07f3)
 * [Following the flow of a Java Stream](https://donraab.medium.com/following-the-flow-of-a-java-stream-0bb617e3074f?source=friends_link&sk=dc1d82aaa9ef5af299e529f189b6fe2b)
 * [LazyIterable will get back to you later](https://donraab.medium.com/lazyiterable-will-get-back-to-you-later-1f4cf92ce5f5?source=friends_link&sk=22570f1b1b96b09587dd0375c555c05c)
-* [Hide and Seek with Collections in Java](https://donraab.medium.com/hide-and-seek-with-java-collections-cb988aeef558?source=friends_link&sk=8c5adc12dc12c4db21ade53aa588e239)
 * [Java Arrays are like the Seats in a Car](https://itnext.io/java-arrays-are-like-the-seats-in-a-car-01599cd53a9a?source=friends_link&sk=ea44d50a56497bba3801e74d3593b21c)
 * [How to collect a Java Stream into a primitive Collection](https://donraab.medium.com/how-to-collect-a-java-stream-into-a-primitive-collection-0a90e246c16e?source=friends_link&sk=660ffc2bc90dd77d8316dfec44f9a8a9)
 * [Map-Oriented Programming in Java](https://levelup.gitconnected.com/map-oriented-programming-in-java-cc430f25673e?source=friends_link&sk=26c9d0b82babff55b692c1dc3d2a907d)
