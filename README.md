@@ -19,6 +19,7 @@
 
 ## Technical Blogs
 * [The Authors Inside Guide to Reading Eclipse Collections Categorically](https://donraab.medium.com/the-authors-inside-guide-to-reading-eclipse-collections-categorically-950b245e8cab?source=friends_link&sk=757ffc134b930c802641177ca99da96e)
+* [Foreword and Onward to Your Next Connection](https://donraab.medium.com/foreword-and-onward-to-your-next-connection-c4c295c270a5?source=friends_link&sk=7f229da5a717ed5ee685eb85ae84cdf2)
 * [Book: Eclipse Collections Categorically](https://donraab.medium.com/book-eclipse-collections-categorically-37591b2135f5?source=friends_link&sk=03cc75fec4052e377444ede49d6c55b2)
 * [My Twenty-one Year Journey to Write and Publish My First Book](https://donraab.medium.com/my-twenty-one-year-journey-to-write-and-publish-my-first-book-f81352352e24?source=friends_link&sk=83fa5aa5c4328aa41c9e27cf665ff008)
 * [Poetry in Code](https://donraab.medium.com/poetry-in-code-91801b3c5b6b?source=friends_link&sk=3d3507cd23906a38ec3a7dba91aea0b6)
